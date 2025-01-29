@@ -1,0 +1,10 @@
+input_text = "Sorting words in alphabetical order is an interesting task."
+
+words = input_text.split()
+
+words.sort()
+
+sorted_text = ' '.join(words)
+
+print("Original text:", input_text)
+print("Sorted text:", sorted_text)
