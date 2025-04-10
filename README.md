@@ -10,3 +10,5 @@ This repository contains implementations of various sorting algorithms and graph
 - [**`counting_sort.c`**](counting_sort.c) - C implementation of the Counting Sort algorithm.
 - [**`insertion_sorting.c`**](insertion_sorting.c) - C implementation of the Insertion Sort algorithm.
 - [**`counting_sort.py`**](counting_sort.py). - python implementation of counting sort algorithm.
+- [**`linked_stack.py`**](linked_stack.py). - python implementation of of stacks in linked list format.
+- [**`bubble_sort.py`**](bubble_sort.py). - python implementation of bubble sort algorithm.
