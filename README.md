@@ -17,4 +17,4 @@ This repository contains implementations of various sorting algorithms and graph
 - [**`merge_sort.py`**](merge_sort.py). - python implementation of merge sort technique.
 - [**`quick_sort.py`**](quick_sort.py). - python implementation of quick sort technique.
 - [**`radix_sort.py`**](radix_sort.py). - python implementation of radix sort technique.
-
+- [**`bucket_sort.py`**](bucket_sort.py). - python implementation of bucket sort technique.
