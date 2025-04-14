@@ -15,3 +15,4 @@ This repository contains implementations of various sorting algorithms and graph
 - [**`e-com.py`**](e-com.py). - python implementation of bubble sort algorithm.
 - [**`stack.py`**](stack.py). - explanation of the stack process.
 - [**`merge_sort.py`**](merge_sort.py). - python implementation of merge sort technique.
+- [**`quick_sort.py`**](quick_sort.py). - python implementation of quick sort technique.
