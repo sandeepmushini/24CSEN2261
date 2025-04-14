@@ -18,3 +18,6 @@ This repository contains implementations of various sorting algorithms and graph
 - [**`quick_sort.py`**](quick_sort.py). - python implementation of quick sort technique.
 - [**`radix_sort.py`**](radix_sort.py). - python implementation of radix sort technique.
 - [**`bucket_sort.py`**](bucket_sort.py). - python implementation of bucket sort technique.
+- [**`linear_search_array.py`**](linear_search_array.py). - explanation of the linear search for an array.
+- [**`binary_search_array_iterative.py`**](binary_search_array_iterative.py). - explanation of the binary_search in iterative method for an array.
+- [**`binary_search_array_recursive.py`**](binary_search_array_recursive.py). - explanation of the binary_search in recursive method for an array.
